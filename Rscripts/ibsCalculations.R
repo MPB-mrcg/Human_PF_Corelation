@@ -78,3 +78,6 @@ calculateIBS = function(dirname, input)
   # Write the IBS matrix to a new file
   fwrite(ibsDf, gsub(".txt", "IBSMatrix.txt", input), sep="\t")
 }
+
+# Call the calculateIBS function with specified directory and input file
+calculateIBS("/Users/marthaanitademba/Library/CloudStorage/OneDrive-LondonSchoolofHygieneandTropicalMedicine/Nora", "Clair3AllMerged_PF_body_rectifiedvariantPos_Anno.snp3.recodefinal_IBSInput.txt")
