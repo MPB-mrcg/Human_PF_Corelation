@@ -1,1 +1,1 @@
-In this project, we tried to identify any possible corelation between 16 selected Plasmodium falciparum drug resistant genes and four human genes.
+In this project, our objective was to explore potential correlations between 16 selected Plasmodium falciparum drug-resistant genes and 4 human genes.
